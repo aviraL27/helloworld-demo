@@ -1,3 +1,3 @@
 # helloworld-demo
-This is my first git repository
+This is my first git repository.
 Author - Aviral Joshi
